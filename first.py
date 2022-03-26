@@ -1,2 +1,3 @@
 #display the outcome
-Print("New python file")
+
+print("New python file")
